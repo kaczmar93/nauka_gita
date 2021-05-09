@@ -17,7 +17,7 @@ Polecam kawe Costa.
   - 4 - zriobiony
 - Commity na github
   - 1 (master) - zrobiony
-  - 2 -
+  - 2 - zrobiony
   - 3 -
   - 4 -
 
