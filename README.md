@@ -26,3 +26,4 @@ Polecam kawe Costa.
 ![Image](https://i.ibb.co/g6SJZKz/pngegg.png)
 
 #        Milego dnia
+Dodałem to na github
