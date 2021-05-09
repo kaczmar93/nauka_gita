@@ -18,7 +18,7 @@ Polecam kawe Costa.
 - Commity na github
   - 1 (master) - zrobiony
   - 2 - zrobiony
-  - 3 -
+  - 3 - zrobiony
   - 4 -
 
 # Do dziela!
