@@ -11,15 +11,15 @@ Polecam kawe Costa.
 ### Dla lepszego porzadku lista commitow:
 
 - Commity lokalne
-  - 1 (master) - zrobiony
+  - 1 - zrobiony
   - 2 - zrobiony
   - 3 - zrobiony
-  - 4 - zriobiony
+  - 4 - zrobiony
 - Commity na github
-  - 1 (master) - zrobiony
+  - 1 - zrobiony
   - 2 - zrobiony
   - 3 - zrobiony
-  - 4 -
+  - 4 - zrobiony
 
 # Do dziela!
 
