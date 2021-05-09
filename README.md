@@ -1,6 +1,7 @@
 ### Intro
 
 Projekt GIT Konrad K.
+Commituje ten plik, taki jestem!
 
 ## Wazna wskazowka
 
