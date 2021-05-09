@@ -8,6 +8,18 @@ Commituje ten plik, taki jestem!
 Przed przystapieniem do pracy, pamietaj o Kawie!
 Polecam kawe Costa.
 
+### Dla lepszego porzadku lista commitow:
+
+- Commity lokalne
+  - 1 (master) - zrobiony
+  - 2 - zrobiony
+  - 3 - zrobiony
+  - 4 - zriobiony
+- Commity na github
+  - 1 (master) - zrobiony
+  - 2 -
+  - 3 -
+  - 4 -
 
 # Do dziela!
 
