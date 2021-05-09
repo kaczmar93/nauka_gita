@@ -27,3 +27,4 @@ Polecam kawe Costa.
 
 #        Milego dnia
 Dodałem to na github
+a to w atomie
